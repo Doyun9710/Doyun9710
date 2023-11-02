@@ -19,6 +19,7 @@ Velog : https://velog.io/@doyun1010
 
 ### My Stack
 <!-- 추가하기(수동) https://velog.io/@fejigu/Github-Github-README%EC%97%90-%ED%91%9C-%EC%9E%91%EC%84%B1-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EB%B1%83%EC%A7%80-%EB%8B%AC%EA%B8%B0 -->
+<!-- 모음 https://cocoon1787.tistory.com/689 -->
 <!-- 모음 https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%A7%80-%EB%AA%A8%EC%9D%8C -->
 <div id="frontend">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
