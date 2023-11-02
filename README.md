@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hi I'm Doyun 👋
+
+## Java Back-End Developer
 
 <br><br>
 
-### Contact
-
+### Contact   
+<!-- Phone : 82) 10-4058-8384   --> 
+Email : doyun1010k@gmail.com   
 Notion : Loading...   
 Velog : https://velog.io/@doyun1010
 
