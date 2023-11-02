@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<br><br>
+
+### Contact
+
+Notion : Loading...   
+Velog : https://velog.io/@doyun1010
+
+
+
+
+
 <!--
 **Doyun9710/Doyun9710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
