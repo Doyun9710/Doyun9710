@@ -2,11 +2,11 @@
 
 ### Java Back-End Developer   
 
-### My currently Top Languages
+### Top Languages
 <!-- [https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C](https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Languages%EB%AA%A8%EC%9D%8C) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyun9710&layout=compact&theme=dark"/>
 
-### My currently working on
+### Working on
 <!-- https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C -->
 <img src="https://github-readme-stats.vercel.app/api?username=Doyun9710&show_icons=true&theme=github_dark"/>
 
