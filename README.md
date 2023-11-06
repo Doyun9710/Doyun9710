@@ -27,6 +27,7 @@ Velog : https://velog.io/@doyun1010
 
 
 ### My Stacks
+<!-- <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/> -->
 <!-- 추가하기(수동) https://velog.io/@fejigu/Github-Github-README%EC%97%90-%ED%91%9C-%EC%9E%91%EC%84%B1-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EB%B1%83%EC%A7%80-%EB%8B%AC%EA%B8%B0 -->
 <!-- 모음 https://cocoon1787.tistory.com/689 -->
 <!-- 모음 https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%A7%80-%EB%AA%A8%EC%9D%8C -->
@@ -35,7 +36,8 @@ Velog : https://velog.io/@doyun1010
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
 </div>
 
 <div id="backend">
