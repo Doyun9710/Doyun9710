@@ -1,14 +1,8 @@
 # Hi I'm Doyun 👋
 
+
+
 ### Java Back-End Developer   
-
-### Top Languages
-<!-- [https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C](https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Languages%EB%AA%A8%EC%9D%8C) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyun9710&layout=compact&theme=dark"/>
-
-### Working on
-<!-- https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C -->
-<img src="https://github-readme-stats.vercel.app/api?username=Doyun9710&show_icons=true&theme=github_dark"/>
 
 
 
@@ -17,6 +11,18 @@
 Email : doyun1010k@gmail.com   
 Notion : Loading...   
 Velog : https://velog.io/@doyun1010
+
+
+
+### Top Languages
+<!-- [https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C](https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Languages%EB%AA%A8%EC%9D%8C) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyun9710&layout=compact&theme=dark"/>
+
+
+
+### Working on
+<!-- https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Stats-%EB%AA%A8%EC%9D%8C -->
+<img src="https://github-readme-stats.vercel.app/api?username=Doyun9710&show_icons=true&theme=github_dark"/>
 
 
 
